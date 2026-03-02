@@ -373,7 +373,7 @@ function App() {
     <div className="min-h-screen bg-gray-50 p-4 md:p-8 font-sans text-gray-800">
       <div className="max-w-5xl mx-auto bg-white rounded-xl shadow-lg overflow-hidden">
         <div className="bg-indigo-600 p-6 text-white">
-          <h1 className="text-2xl md:text-3xl font-bold tracking-wider">Kalkulator Kriptografi Klasik</h1>
+          <h1 className="text-2xl md:text-3xl font-bold tracking-wider">M. Adnan - Tugas Kalkulator Kriptografi Klasik</h1>
           <p className="text-indigo-200 mt-2">Vigenere | Affine | Playfair | Hill | Enigma</p>
         </div>
 
